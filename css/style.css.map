@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAEA,OAAO,CAAC,6FAAI",
+    "sources": [
+        "style.scss",
+        "_variables.scss",
+        "_mixins.scss",
+        "_header.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
